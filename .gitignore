@@ -13,6 +13,7 @@ rust-project.json
 *.o
 public/
 .direnv/
+*.exe
 
 # Local Netlify folder
 .netlify
